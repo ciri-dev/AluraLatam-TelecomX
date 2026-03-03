@@ -2,14 +2,6 @@
 
 Este proyecto consiste en un análisis de datos exploratorio (EDA) para **TelecomX**, una empresa de telecomunicaciones. El objetivo principal es identificar los factores que contribuyen a la evasión de clientes (Churn) y proponer estrategias basadas en datos para mejorar la retención.
 
-## 📋 Tabla de Contenidos
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Estructura de los Datos](#estructura-de-los-datos)
-- [Metodología (ETL y EDA)](#metodología-etl-y-eda)
-- [Principales Hallazgos](#principales-hallazgos)
-- [Cómo Ejecutar el Proyecto](#cómo-ejecutar-el-proyecto)
-
 ## 📖 Descripción del Proyecto
 La pérdida de clientes es uno de los problemas más costosos para las empresas de servicios. Este análisis procesa un dataset en formato JSON anidado, lo limpia, lo transforma y visualiza patrones clave para responder a preguntas como:
 - ¿Qué tipo de contrato tiene mayor tasa de abandono?
